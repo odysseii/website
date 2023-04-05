@@ -899,11 +899,14 @@ a:active {
   background: linear-gradient(to right, #6541c1 0%, #d43396 98%, #d43396 100%); */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 53px;
+  font-size: 100px;
   font-weight: 200;
   line-height: 1em;
   margin-bottom: 20px;
   margin-top: 20px;
+}
+.pl-6 {
+  padding-left: 6rem!important;
 }
 .pricing-section .single-pricing p.price-label {
   font-size: 18px;
@@ -937,7 +940,7 @@ a:active {
   box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27); */
 }
 .pricing-section .single-pricing.popular {
-  background: #0C7FE9;
+  background: #404040;
   /* background: -webkit-gradient(left top, right top, color-stop(0%, #6541c1), color-stop(98%, #d43396), color-stop(100%, #d43396)); */
   /* background: -webkit-gradient(linear, left top, right top, from(#6541c1), color-stop(98%, #d43396), to(#d43396)); */
   /* background: linear-gradient(to right, #6541c1 0%, #d43396 98%, #d43396 100%); */
