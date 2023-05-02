@@ -2544,4 +2544,27 @@ footer.footer .footer-widget.links-widget ul {
   transform: translate(-50%, -50%);
 }
 
+.most-popular-sticker {
+  position: absolute;
+  width: 120px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 15px;
+  top: 0;
+  right: 0;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: #12CE32;
+  color: white;
+  
+}
+
+.most-popular-sticker span {
+  font-size:small;
+}
+
+.inner {
+  position: relative;
+}
+
 /*# sourceMappingURL=style.css.map */
