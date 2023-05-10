@@ -218,7 +218,7 @@ function thmbxSlider() {
     if ($('.how-app-work-slider-wrapper .slider').length) {
         $('.how-app-work-slider-wrapper .slider').bxSlider({
             // adaptiveHeight: true,
-            auto:false,
+            auto:true,
             controls: false,
             pause: 3000,
             speed: 500,
