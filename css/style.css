@@ -513,10 +513,12 @@ a:active {
   margin-left: 15px;
 }
 .banner-static .banner-content .thm-btn {
+  background-color: rgb(160, 76, 160);
   /* -webkit-box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27);
   box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27); */
 }
 .banner-static .banner-content .thm-btn:hover {
+  background-color: purple;
   color: #fff;
   /* -webkit-box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27); */
   /* box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27); */
@@ -2565,6 +2567,18 @@ footer.footer .footer-widget.links-widget ul {
 
 .inner {
   position: relative;
+}
+
+.thm-btn {
+  background-color: rgb(160, 76, 160);
+  /* -webkit-box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27);
+  box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27); */
+}
+.thm-btn:hover {
+  background-color: purple;
+  color: purple;
+  /* -webkit-box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27); */
+  /* box-shadow: 0px 15px 30px rgba(212, 50, 151, 0.27); */
 }
 
 /*# sourceMappingURL=style.css.map */
